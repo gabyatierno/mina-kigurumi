@@ -1,0 +1,22 @@
+Projeto: Criar o meu segundo site.
+Nome do Site: Min'na Kigurumi.
+Descrição: Site para venda de pijamas do modelo Kigurumi.
+Kigurumi:A palavra significa "vestir animal fofo", é uma expressão que surgiu
+para classificar pessoas que se fantasiam de personagens ou animais fofinhos
+e ficam nas portas das lojas para atrair o público; no Japão a moda do Kigurumi
+foi um pouco mais além, sendo que determinados grupos sociais aderiram ao uso
+do vestuário no cotidiano, sendo possível vê-los usarem o kigurumi nos centros
+urbanos ou até mesmo como pijamas. No ocidente a tendência veio forte através
+do modelo de pijamas, homens, mulheres e crianças aderiram a moda seja para
+vestir um bichinho fofinho ou o seu personagem favorito.
+----------------------------------------------------------------------------------
+Estrutura do Site
+    *Responsivo: celular, desktop e televisão;
+    *Ter 1 carrosel de imagens;
+    *Menu inovador;
+    *Filtragem;
+-----------------------------------------------------------------------------------
+Ferramentas para a Criação: HTML, CSS e Java Script.
+-----------------------------------------------------------------------------------
+Obs.:O site será feito com estrutura em inglês, porém a linguagem do usuário 
+será em português; o intuito é praticar e desenvolver o inglês.
